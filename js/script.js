@@ -3,7 +3,7 @@
 			image.onload = function() {
 				var engine = new RainyDay({
 					image: this,
-					blur: 7,
+					blur: 10,
 					opacity: 1,
 					gravityAngle: Math.PI / 2,
 					gravityAngleVariance: 0
