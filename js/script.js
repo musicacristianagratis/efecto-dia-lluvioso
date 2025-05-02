@@ -18,6 +18,6 @@
 				], 50);
 			};
 			image.crossOrigin = 'anonymous';
-			image.src = '';
+			image.src = 'images/bg.jpg';
 			
 		}
