@@ -22,7 +22,7 @@
 	left: 50%;
 	transform: translate(-50%, -50%);
 	z-index: 1;
-	font-size: 90px;
+	font-size: 20px;
 	color: white;
 	font-family: "Merienda", cursive;
 }
