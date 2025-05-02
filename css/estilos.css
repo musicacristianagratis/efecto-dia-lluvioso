@@ -18,8 +18,8 @@
 
 .rainyday h1{
 	position: absolute;
-	top: 20%;
-	left: 15%;
+	top: 15%;
+	left: 8%;
 	transform: translate(-50%, -50%);
 	z-index: 1;
 	font-size: 20px;
